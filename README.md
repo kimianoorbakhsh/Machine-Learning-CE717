@@ -6,7 +6,7 @@ Sharif University of Technology
 
 # Contents
 ## Projects
-### - Clinical Data Analysis to assess ICU Admission [[Code](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Clinical_Data_Analysis.ipynb)] [[Data](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)] [[Report](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Report.pdf)]
+### Clinical Data Analysis to assess ICU Admission [[Code](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Clinical_Data_Analysis.ipynb)] [[Data](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)] [[Report](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Report.pdf)]
 
 - In this project, I analyzed the data received from a hospital in Italy to find a model that can early predict whether a Covid patient needs to be admitted to ICU or not. My final model, an SVM Classifier, can predict ICU Admission of a patient with an F1-score of 75% only by using the data collected in the first two hours from when the patient has gone to the hospital.
 ### Sarcasm Detection on Reddit [[Code and Report](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Sarcasm_Detection.ipynb)] [[Data](https://www.kaggle.com/danofer/sarcasm)]
