@@ -6,6 +6,11 @@ Sharif University of Technology
 
 # Contents
 ## Projects
+### - Clinical Data Analysis to assess ICU Admission [[Code](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Clinical_Data_Analysis.ipynb)] [[Data](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)] [[Report](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Report.pdf)]
+
+- In this project, I analyzed the data received from a hospital in Italy to find a model that can early predict whether a Covid patient needs to be admitted to ICU or not. My final model, an SVM Classifier, can predict ICU Admission of a patient with an F1-score of 75% only by using the data collected in the first two hours from when the patient has gone to the hospital.
+### Sarcasm Detection on Reddit [[Code and Report](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Project/Sarcasm_Detection.ipynb)] [[Data](https://www.kaggle.com/danofer/sarcasm)]
+- In this project, we analyzed the Reddit dataset to predict sarcasm. We tried different ML models such as Logistic Regression, Adaboost, Naive Bayes, and Recurrent Neural Network. Finally, we chose our RNN model with LSTM cells as our final model with an F1-score of 71%.
 ## Practical Assignments
   - Practicing different kinds of EDA and Visualization techniques in Python on a simple dataset [[Code](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Practical/EDA%20and%20Visualization%20Practice.ipynb)] [[data](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Data/data.csv)].
   - Implementation of Linear and Polynomial Regression from scrach with K-Fold Cross Validation and Regularization [[Code](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Practical/Linear%20and%20Polynomial%20Regression.ipynb)] [[data1](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Data/FirstDataset.txt)] [[data2](https://github.com/kimianoorbakhsh/Machine-Learning-CE717/blob/main/Data/SecondDataset.txt)].
